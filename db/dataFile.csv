@@ -1,0 +1,62 @@
+﻿Name,Surname,Nationality,ID,Age,BodyTemp,Gender,Weight,Height,Respiration,HR,BloodPress,Symptoms,Date
+Charalampos,Maxoutis,Cy,1,13,32,Male,84,14,15,66,77/51,fatigue fever muscle cramp,29/08/2019
+Miguel,CS,Spanish,2,24,24,Male,66,34,43,43,12-Dec,fatigue fever muscle cramp,29/08/2019
+Charalampos,Maxoutis,Cy,1,13,38,Male,65,23,23,12,Dec-21,fatigue fever muscle cramp,29/08/2019
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,19/09/2019 11:39:48
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,03/10/2019 06:17:53
+Alba,Meira,Spain,2839302,27,366,Female,-,-,-,-,/,,10/10/2019 21:20:21
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 21:49:17
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 21:53:52
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 21:59:59
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 22:04:57
+Charalampos,Maxoutis,Cy,1,-,-,Male,-,-,-,-,/,dizziness fatigue ,10/10/2019 22:12:07
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,cough ,10/10/2019 22:17:24
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,cough ,10/10/2019 22:19:00
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,dizziness fatigue nausea ,10/10/2019 22:20:42
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,dizziness fatigue nausea ,10/10/2019 22:22:02
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,dizziness fatigue nausea ,10/10/2019 22:22:43
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,dizziness fatigue nausea ,10/10/2019 22:23:18
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,dizziness fatigue nausea ,10/10/2019 22:23:32
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 22:25:15
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 22:26:08
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 22:27:10
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 22:27:52
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 22:41:36
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 22:45:09
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 22:50:23
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 22:52:37
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 22:55:32
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 22:56:23
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 22:58:27
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 23:00:29
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 23:04:09
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 23:04:51
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:07:43
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:08:11
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:09:04
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:09:49
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:10:24
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:13:01
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 23:21:54
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:27:28
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:29:23
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:30:05
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:33:46
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,10/10/2019 23:36:01
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 23:37:48
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 23:38:54
+Charalampos,Maxoutis,Cy,1,40,370,Male,-,-,-,-,/,,10/10/2019 23:51:01
+Charalampos,Maxoutis,Cy,1,40,370,Male,-,-,-,-,/,,10/10/2019 23:52:38
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,10/10/2019 23:59:20
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,11/10/2019 00:01:02
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,11/10/2019 00:02:18
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,11/10/2019 00:41:32
+ivana,pennisi,sicily,234,24,350,Female,-,-,-,-,/,muscle cramp amazing ,11/10/2019 00:46:57
+Charalampos,Maxoutis,Cy,1,-,-,-,-,-,-,-,/,,11/10/2019 01:02:23
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,11/10/2019 01:26:32
+Miguel,CS,Spanish,2,57,-,-,-,-,-,-,/,,11/10/2019 02:09:17
+Miguel,CS,Spanish,2,57,-,-,-,-,-,-,/,,11/10/2019 02:14:55
+auro ,das,indian,674,24,363,Male,-,-,-,-,/,,11/10/2019 02:38:03
+Miguel,CS,Spanish,2,24,363,Male,-,-,-,-,/,,11/10/2019 02:44:50
+Alba,Meira,Spain,2839302,-,-,-,-,-,-,-,/,diarrhea headache nausea ,11/10/2019 03:12:16
+Miguel,CS,Spanish,2,-,-,-,-,-,-,-,/,,30/03/2020 11:47:50
